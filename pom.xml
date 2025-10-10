@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ram.learn</groupId>
-    <artifactId>Docker-Jenkins-SpringApp</artifactId>
+    <artifactId>docker-jenkins-springapp</artifactId>
     <version>1.0-SNAPSHOT</version>
         <repositories>
             <repository>
@@ -21,6 +21,6 @@
     </properties>
 
     <build>
-      <finalName>Docker-Jenkins-SpringApp</finalName>
+      <finalName>docker-jenkins-springapp</finalName>
     </build>
 </project>
