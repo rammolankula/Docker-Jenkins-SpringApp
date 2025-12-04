@@ -24,7 +24,7 @@ Adjust above if your structure differs (e.g. no compose, different folders).
 - Jenkins server (if you plan to leverage CI/CD pipeline)  
 - Maven (or use Maven wrapper `mvnw`)  
 
-## 🛠️ Build & Run Instructions  
+##  Build & Run Instructions  
 
 ### Run locally with Maven  
 ```bash
